@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <title>Color Shadow</title>
+    <style>
+    h1 { text-shadow:3px 4px 2px #F00000;}
+    h2 { color:steelblue;}
+    </style>
+  </head>
+  <body>
+    <h1>This is crimson color. </h1>
+    <h2>This is steelblue color</h2>
+  </body>
+</html>
